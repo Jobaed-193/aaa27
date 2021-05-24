@@ -1,0 +1,11 @@
+.pro > form{
+  margin-top: 50px;
+}
+
+footer{
+  background-color: black;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
